@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryStore2", "GroceryStore2.csproj", "{644CA8B9-BC81-4CF3-8CD9-A87ABE2F5FE1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infm313", "Infm313.csproj", "{644CA8B9-BC81-4CF3-8CD9-A87ABE2F5FE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
